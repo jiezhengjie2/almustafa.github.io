@@ -15,7 +15,7 @@
              <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/avatar/me.jpg" width="18px">
              <a href="https://github.com/jiezhengjie">我的Github</a>
          </span>
-         ·
+         
         
-     </div>
+
  </center>
